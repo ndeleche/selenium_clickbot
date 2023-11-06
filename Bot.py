@@ -8,7 +8,6 @@ options.add_argument('--disable-gpu')
 options.add_argument('--ignore-certificate-errors')
 driver = webdriver.Chrome(options=options)
 
-    
 
 driver = webdriver.Chrome()
 
