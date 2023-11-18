@@ -20,7 +20,7 @@ time.sleep(0.1)
 
 driver.maximize_window()
 
-time.sleep(0.)
+time.sleep(0.1)
 
 # Scroll down the page
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
